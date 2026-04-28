@@ -54,34 +54,24 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 
  
 ---
- 
+
 ### 📂 Portfólio de Projetos
  
-### ⚖️ Ética e Inteligência Artificial
+#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Auditória de Viés Algorítmico** | Identificação de falhas de classificação em modelos de Machine Learning, acompanhada de um memorial técnico sobre impactos éticos e estratégias de mitigação. | [Ver Projeto]([https://github.com/GVoltz-Creater/Unicid/tree/main/Modelagem%20de%20Banco%20de%20Dados%201%C2%BA%20Semestre) |
+| **Sistema de Gestão Escolar** | Em 5 interações com a IA deveriamos chegar em um resultado especifico | [Ver Projeto](.) |
  
-#### 🏋️ Modelação de Base de Dados (SQL)
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão de Academia** | Criação de uma base de dados relacional com normalização de dados, abrangendo a gestão de alunos, treinos e integração com APIs de biometria. | [Ver Projeto](./projeto-ia-churn/) |
-
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **A Corrido do Prompt** | . | [Ver Projeto](./projeto-ia-churn/) |
 
-#### 🤖 Inteligência Artificial
+#### 🤖 Linguagem C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-
+| **Atividade de Arquivos** | Deveriamos montar um menu interativo em **C** para uma loja | [Ver Projeto]() |
+  
 ---
  
 ### 🏗 Estrutura do Repositório
