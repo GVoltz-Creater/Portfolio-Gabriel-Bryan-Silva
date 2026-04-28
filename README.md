@@ -60,18 +60,35 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Em 5 interações com a IA deveriamos chegar em um resultado especifico | [Ver Projeto](.) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-modelagem-de-banco-de-dados-1-semestre/) |
+
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Corrido do Prompt** | . | [Ver Projeto](./projeto-ia-churn/) |
+| **A Corrido do Prompt** | O objetivo era em 5 interações chegar a um resultado esperado | [Ver Projeto](./projeto-a-corrida-do-prompt) |
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **A Corrido do Prompt** | O objetivo era em 5 interações chegar a um resultado esperado | [Ver Projeto](./projeto-a-corrida-do-prompt) |
+
 
 #### 🤖 Linguagem C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Atividade de Arquivos** | Deveriamos montar um menu interativo em **C** para uma loja | [Ver Projeto]() |
-  
+| **Atividade de Arquivos** | Deveriamos montar um menu interativo em *4*C** para uma loja | [Ver Projeto](./algoritmos-e-pensamento-computacional) |
+
+
+#### 🤖 Front-End
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Criação de um WebSite** | Desenvolver um WebSite em equipe. | [Ver Projeto](./projeto-desenvolvimento-front-end-para-web) |
+
+
+#### 🤖 Linguagem Python
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projetor de Investimento** | Desenvolver um programa que é capaz de analisar o dados de bancos. | [Ver Projeto](./projeto-programação-de-computadores) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
