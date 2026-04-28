@@ -75,7 +75,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 #### 🤖 Linguagem C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Atividade de Arquivos** | Deveriamos montar um menu interativo em *4*C** para uma loja | [Ver Projeto](./algoritmos-e-pensamento-computacional) |
+| **Atividade de Arquivos** | Deveriamos montar um menu interativo em **C** para uma loja | [Ver Projeto](./algoritmos-e-pensamento-computacional) |
 
 
 #### 🤖 Front-End
