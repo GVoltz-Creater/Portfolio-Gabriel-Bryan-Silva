@@ -578,6 +578,7 @@ Escaneie o QR Code acima e comece agora!
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4f231bca-dd28-43a8-8b2b-46ebaf0e1a9c" />
 
+---
 
 *Última atualização: Maio 2026*
 *Desenvolvido com Manus AI — Plataforma de Desenvolvimento Assistida por IA*
