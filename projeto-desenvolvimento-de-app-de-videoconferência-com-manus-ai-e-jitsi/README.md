@@ -560,59 +560,6 @@ O app utiliza **react-native-webview** para carregar o Jitsi Meet em uma WebView
 
 ---
 
-## 🤝 Como Contribuir
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-### 1. Fork o Repositório
-Clique no botão "Fork" no GitHub
-
-### 2. Clonar seu Fork
-```bash
-git clone https://github.com/seu-usuario/call-in-buy.git
-cd call-in-buy
-```
-
-### 3. Criar uma Branch para sua Feature
-```bash
-git checkout -b feature/AmazingFeature
-```
-
-### 4. Fazer Commit das Mudanças
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-
-### 5. Push para a Branch
-```bash
-git push origin feature/AmazingFeature
-```
-
-### 6. Abrir um Pull Request
-Clique em "New Pull Request" no GitHub
-
-### Padrões de Código
-- Use **TypeScript** para type safety
-- Siga o padrão de nomenclatura: `camelCase` para variáveis, `PascalCase` para componentes
-- Escreva testes para novas features
-- Mantenha componentes pequenos e reutilizáveis
-- Use `prettier` para formatação: `pnpm format`
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 👥 Autores
-
-- **Desenvolvido com ❤️ pela Manus AI**
-- **Especialista em:** Arquitetura de Software & E-commerce
-
----
-
 ## 📞 Suporte
 
 Encontrou um bug ou tem uma sugestão?
@@ -623,35 +570,14 @@ Encontrou um bug ou tem uma sugestão?
 
 ---
 
-## 🎉 Agradecimentos
-
-- **Jitsi Meet** — Plataforma de videoconferência open-source
-- **Expo** — Plataforma de desenvolvimento React Native
-- **React Native** — Framework mobile multiplataforma
-- **NativeWind** — Tailwind CSS para React Native
-- **Manus AI** — Plataforma de desenvolvimento assistida por IA
-
----
-
-## 📝 Checklist de Avaliação
-
-Antes de submeter o projeto, verifique:
-
-- [x] **Código-Fonte no GitHub** — Repositório criado e código commitado
-- [x] **Implementação Manus AI** — Estrutura gerada pela Manus AI para Android
-- [x] **Integração Jitsi** — App capaz de criar/entrar em sala real do Jitsi Meet
-- [x] **README.md Profissional** — Contém todos os requisitos (título, problema, tecnologias, instalação, preview, QR Code)
-- [x] **APK ou Simulação** — Projeto funcional para demonstração
-- [x] **Testes** — 13 testes unitários passando
-- [x] **TypeScript** — 100% type-safe, sem erros
-
----
-
 **Pronto para revolucionar o Live Commerce? 🚀**
 
 Escaneie o QR Code acima e comece agora!
 
 ---
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4f231bca-dd28-43a8-8b2b-46ebaf0e1a9c" />
+
 
 *Última atualização: Maio 2026*
 *Desenvolvido com Manus AI — Plataforma de Desenvolvimento Assistida por IA*
