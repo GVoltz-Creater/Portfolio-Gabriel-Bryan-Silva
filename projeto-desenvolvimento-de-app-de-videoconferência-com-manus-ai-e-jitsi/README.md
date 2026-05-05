@@ -16,7 +16,6 @@
 8. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 9. [Arquitetura do Projeto](#arquitetura-do-projeto)
 10. [Integração Jitsi Meet](#integração-jitsi-meet)
-11. [Como Contribuir](#como-contribuir)
 
 ---
 
