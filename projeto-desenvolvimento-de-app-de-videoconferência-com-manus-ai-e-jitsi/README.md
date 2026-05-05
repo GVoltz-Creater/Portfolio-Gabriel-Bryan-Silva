@@ -571,7 +571,7 @@ Encontrou um bug ou tem uma sugestão?
 
 **Pronto para revolucionar o Live Commerce? 🚀**
 
-Escaneie o QR Code acima e comece agora!
+Escaneie o QR Code abaixo e comece agora!
 
 ---
 
