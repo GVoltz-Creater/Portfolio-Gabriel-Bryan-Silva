@@ -72,6 +72,7 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 | **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-engenharia-reversa) |
 | **Do Clone ao Produto Minimo Viavél** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](./projeto-mvp+) |
 | **Engenharia de Software e IA com Bubble.io** | Desenvolver uma aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a Inteligência Artificial do Bubble como acelerador, mas aplicando rigorosamente os fundamentos de engenharia de software para garantir segurança, escalabilidade e governança. | [Ver Projeto](./projeto-engenharia-de-software-e-ia-com-bubble) |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | A ideia é criar um app Android onde o Jitsi Meet cuida da conexão de vídeo e o Manus AI atua como um assistente inteligente em tempo real. Na prática, a IA "escuta" a reunião para gerar resumos, organizar tarefas e executar comandos de voz automaticamente, transformando uma simples videoconferência em uma ferramenta de produtividade fluida, criativa e muito fácil de usar. | [Ver Projeto](./projeto-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi) |
 
 
 #### 🤖 Linguagem C
