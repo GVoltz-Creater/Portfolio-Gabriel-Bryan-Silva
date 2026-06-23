@@ -1,0 +1,40 @@
+// POST é usado para criar um recurso, ou seja, quando o usuário quer criar um vídeo no banco de dados, ele vai enviar uma requisição POST para a rota /videos, o servidor vai receber essa requisição e vai criar um novo vídeo no banco de dados.
+
+POST https://node-do-zero-rr4u.onrender.com/videos
+Content-type: application/json
+
+{
+  "title": "Video 02",
+  "description": "Este é o segundo vídeo",
+  "duration": 180
+}
+
+
+###
+
+// GET é usado para buscar um recurso, ou seja, quando o usuário quer buscar todos os vídeos do banco de dados, ele vai enviar uma requisição GET para a rota /videos, o servidor vai receber essa requisição e vai retornar todos os vídeos do banco de dados.
+
+// Para realizar uma busca com query params, o usuário pode enviar uma requisição GET para a rota /videos utilizando o parâmetro de consulta   ?search=video, onde search é o nome do query param e video é o valor que o usuário quer buscar. O servidor vai receber essa requisição e vai retornar todos os vídeos que contenham a palavra video no título ou na descrição.
+
+GET https://node-do-zero-rr4u.onrender.com/videos
+
+
+###
+
+// PUT é usado para atualizar um recurso, ou seja, quando o usuário quer atualizar um vídeo do banco de dados, ele vai enviar uma requisição PUT para a rota /videos/:id, onde :id é o id do vídeo que ele quer atualizar. O servidor vai receber essa requisição e vai atualizar o vídeo no banco de dados.
+
+PUT https://node-do-zero-rr4u.onrender.com/videos/
+Content-type: application/json
+
+{
+  "title": "Video 02 atualizado",
+  "description": "Este é o vídeo atualizado",
+  "duration": 180
+}
+
+
+###
+
+// DELETE é usado para deletar um recurso, ou seja, quando o usuário quer remover um vídeo do banco de dados, ele vai enviar uma requisição DELETE para a rota /videos/:id, onde :id é o id do vídeo que ele quer deletar. O servidor vai receber essa requisição e vai deletar o vídeo do banco de dados.
+
+DELETE https://node-do-zero-rr4u.onrender.com/videos/
