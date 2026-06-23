@@ -41,11 +41,13 @@ Sistema completo de gerenciamento de produtos para uma loja, com persistência e
 ## ▶️ Como Compilar e Executar
 
 ```bash
-# Compilar
-gcc codigo_arquivo.c -o arquivo
+# Atividade de Arquivo
+gcc codigo-atividade-arquivo.c -o atividade
+./atividade
 
-# Executar
-./arquivo
+# Sistema de Cadastro de Produtos
+gcc lista-produtos.c -o produtos
+./produtos
 ```
 
 > **Pré-requisito:** Ter o arquivo `test.txt` na mesma pasta para o projeto de ordenação.

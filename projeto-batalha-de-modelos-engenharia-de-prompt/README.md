@@ -17,7 +17,7 @@ Avaliar o comportamento e a precisão de diferentes LLMs diante de um conjunto r
 
 | Arquivo | Descrição |
 |---|---|
-| `Experiência+3+-+Batalha+de+Modelos+&+Engenharia+de+Prompt+(XML).pdf` | Relatório completo da atividade com os prompts, respostas e análise comparativa |
+| `Experiência 3 - Batalha de Modelos & Engenharia de Prompt (XML).pdf` | Relatório completo da atividade com os prompts, respostas e análise comparativa |
 
 ## 🛠️ Metodologia
 

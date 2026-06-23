@@ -18,7 +18,7 @@ Demonstrar de forma prática e reflexiva:
 
 | Arquivo | Descrição |
 |---|---|
-| `Laboratório+de+Classificação+Visual.pdf` | Relatório completo com experimentos, análises e conclusões sobre viés em IA |
+| `Laboratório de Classificação Visual.pdf` | Relatório completo com experimentos, análises e conclusões sobre viés em IA |
 
 ## 📚 Conceitos Abordados
 

@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Do Clone ao MVP — Ethos AI: Moral Compass
 
-# Run and deploy your AI Studio app
+> Projeto acadêmico | UNICID — Análise e Desenvolvimento de Sistemas
 
-This contains everything you need to run your app locally.
+## 📋 Descrição
 
-View your app in AI Studio: https://ai.studio/apps/ac2a6ceb-3df5-458e-9c02-1238da0dd3ee
+**Ethos AI: Moral Compass** evolui o clone construído em [Engenharia Reversa](../projeto-engenharia-reversa) para a fase de inovação e diferenciação competitiva: uma plataforma avançada de ética aplicada, com análise por IA, **histórico persistente** e **consultoria moral personalizada**, usando a IA como copiloto de desenvolvimento.
 
-## Run Locally
+## 🎯 Objetivo
 
-**Prerequisites:**  Node.js
+- Evoluir o clone (Machine Moral) para um produto mínimo viável diferenciado
+- Adicionar funcionalidades de maior valor: histórico de decisões, dilemas personalizados e insights de filósofos
+- Usar IA generativa como copiloto durante todo o ciclo de desenvolvimento, sem perder rigor de engenharia
 
+## ✨ Novidades em relação ao clone original
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 📜 Histórico persistente de decisões e perfis (`HistoryItem`)
+- 🧩 Dilemas personalizados gerados por IA (`CustomDilemma`, `getCustomDilemma`)
+- 🧠 Insights de filósofos sobre cada decisão (`getPhilosopherInsight`)
+
+## 🛠️ Tecnologias
+
+- React + TypeScript + Vite
+- Gemini API (`services/geminiService.ts`) para análise, perfis, dilemas personalizados e insights filosóficos
+- `motion` (Framer Motion) para animações e `lucide-react` para ícones
+
+## ▶️ Como Executar
+
+**Pré-requisitos:** Node.js
+
+```bash
+# 1. Instalar dependências
+npm install
+
+# 2. Definir a GEMINI_API_KEY em .env.local
+# GEMINI_API_KEY=sua_chave_aqui
+
+# 3. Executar
+npm run dev
+```
+
+## 📚 Conceitos Abordados
+
+- Evolução de um clone (engenharia reversa) para um MVP diferenciado
+- IA generativa como copiloto de desenvolvimento
+- Persistência de histórico e personalização de conteúdo via IA
+- Construção de interfaces interativas em React
+
+## 👨‍💻 Autor
+
+**Gabriel Bryan do Nascimento Silva**
+Estudante de ADS — UNICID, 2º período

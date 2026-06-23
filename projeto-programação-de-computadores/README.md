@@ -50,7 +50,7 @@ python AtivosFinanceiros.py
 | Arquivo | Descrição |
 |---|---|
 | `AtivosFinanceiros.ipynb` | Notebook Jupyter com o código completo comentado |
-| `Projeto_ Análise de Ativos Financeiros...` | Versão em script Python com documentação detalhada |
+| `AtivosFinanceiros.py` | Versão em script Python com documentação detalhada |
 
 ## 📚 Conceitos Abordados
 

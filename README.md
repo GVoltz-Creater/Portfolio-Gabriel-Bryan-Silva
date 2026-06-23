@@ -5,8 +5,8 @@
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bryan/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.nacimento32@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/Gabriel%20Estudo/Downloads/Curriculo_Gabriel_Bryan_Dados.pdf)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.nacimento32@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/Curriculo_Gabriel_Bryan_Dados.pdf)
  
 ---
  
@@ -66,31 +66,38 @@ Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na U
 #### 🤖 Inteligência Artificial
 | Projetos | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Corrido do Prompt** | O objetivo era em 5 interações chegar a um resultado esperado | [Ver Projeto](./projeto-a-corrida-do-prompt) |
+| **A Corrida do Prompt** | O objetivo era em 5 interações chegar a um resultado esperado | [Ver Projeto](./projeto-a-corrida-do-prompt) |
 | **Laboratório de Classificação Visual** | Evidenciar como o viés nos dados de treinamento transforma falhas técnicas em preconceitos algorítmicos e exclusão social. | [Ver Projeto](./projeto-laboratorio-de-classificação-visual) |
 | **Batalha de Modelos & Engenharia de Prompt** | Avaliar a precisão técnica e a conformidade de diferentes LLMs (Large Language Models) em relação a um conjunto estrito de instruções. | [Ver Projeto](./projeto-batalha-de-modelos-engenharia-de-prompt) |
-| **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-engenharia-reversa) |
-| **Do Clone ao Produto Minimo Viavél** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](./projeto-mvp+) |
+| **Engenharia Reversa** | Reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](./projeto-engenharia-reversa) |
+| **Do Clone ao Produto Mínimo Viável** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](./projeto-mvp+) |
 | **Engenharia de Software e IA com Bubble.io** | Desenvolver uma aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a Inteligência Artificial do Bubble como acelerador, mas aplicando rigorosamente os fundamentos de engenharia de software para garantir segurança, escalabilidade e governança. | [Ver Projeto](./projeto-engenharia-de-software-e-ia-com-bubble) |
 | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | A ideia é criar um app Android onde o Jitsi Meet cuida da conexão de vídeo e o Manus AI atua como um assistente inteligente em tempo real. Na prática, a IA "escuta" a reunião para gerar resumos, organizar tarefas e executar comandos de voz automaticamente, transformando uma simples videoconferência em uma ferramenta de produtividade fluida, criativa e muito fácil de usar. | [Ver Projeto](./projeto-desenvolvimento-de-app-de-videoconferência-com-manus-ai-e-jitsi) |
+| **Músicas Geradas por IA** | Explorar ferramentas de IA generativa para compor e produzir músicas originais, experimentando o processo criativo assistido por inteligência artificial. | [Ver Projeto](./projeto-musica-ia) |
 
 
-#### 🤖 Linguagem C
+#### 💻 Linguagem C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Atividade de Arquivos** | Deveriamos montar um menu interativo em **C** para uma loja | [Ver Projeto](./algoritmos-e-pensamento-computacional) |
+| **Atividade de Arquivos** | Deveríamos montar um menu interativo em **C** para uma loja, incluindo manipulação de arquivos e ordenação de dados. | [Ver Projeto](./projeto-algoritmos-e-pensamento-computacional) |
 
 
-#### 🤖 Front-End
+#### 🌐 Front-End
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Criação de um WebSite** | Desenvolver um WebSite em equipe. | [Ver Projeto](./projeto-desenvolvimento-front-end-para-web) |
 
 
-#### 🤖 Linguagem Python
+#### 🐍 Linguagem Python
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projetor de Investimento** | Desenvolver um programa que é capaz de analisar o dados de bancos. | [Ver Projeto](./projeto-programação-de-computadores) |
+
+
+#### 🟢 Back-End / Node.js
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **NODE do Zero — API de Vídeos** | API REST de gerenciamento de vídeos construída com Fastify e PostgreSQL (Neon). | [Ver Projeto](./projeto-node-do-zero) |
 
 ---
  

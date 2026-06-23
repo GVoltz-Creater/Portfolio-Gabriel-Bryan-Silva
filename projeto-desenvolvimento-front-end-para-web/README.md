@@ -24,7 +24,6 @@ O projeto foi planejado como um pequeno ecossistema digital com os seguintes pil
 
 ### 3. Equipe e Divisão de Funções (1ª Entrega – Foco em HTML)
 | Membro da Equipe      | Responsabilidade Principal (Página)                                    | Foco Tecnológico                |
-
 |-----------------------|------------------------------------------------------------------------|---------------------------------|
 | Gabriel Bryan         | Página Inicial (`Home.html` \ `PoliticaDePrivacidade.html`)            | Estrutura HTML                  |
 | Nicolas Petrimperni   | Catálogo de Produtos (`Catalogo.html`)                                 | Estrutura HTML                  |
